@@ -1,0 +1,15 @@
+E:\PBKK\Pertemuan2\HelloDotNet\bin\Debug\net10.0\HelloDotNet.exe
+E:\PBKK\Pertemuan2\HelloDotNet\bin\Debug\net10.0\HelloDotNet.deps.json
+E:\PBKK\Pertemuan2\HelloDotNet\bin\Debug\net10.0\HelloDotNet.runtimeconfig.json
+E:\PBKK\Pertemuan2\HelloDotNet\bin\Debug\net10.0\HelloDotNet.dll
+E:\PBKK\Pertemuan2\HelloDotNet\bin\Debug\net10.0\HelloDotNet.pdb
+E:\PBKK\Pertemuan2\HelloDotNet\obj\Debug\net10.0\HelloDotNet.GeneratedMSBuildEditorConfig.editorconfig
+E:\PBKK\Pertemuan2\HelloDotNet\obj\Debug\net10.0\HelloDotNet.AssemblyInfoInputs.cache
+E:\PBKK\Pertemuan2\HelloDotNet\obj\Debug\net10.0\HelloDotNet.AssemblyInfo.cs
+E:\PBKK\Pertemuan2\HelloDotNet\obj\Debug\net10.0\HelloDotNet.csproj.CoreCompileInputs.cache
+E:\PBKK\Pertemuan2\HelloDotNet\obj\Debug\net10.0\HelloDotNet.sourcelink.json
+E:\PBKK\Pertemuan2\HelloDotNet\obj\Debug\net10.0\HelloDotNet.dll
+E:\PBKK\Pertemuan2\HelloDotNet\obj\Debug\net10.0\refint\HelloDotNet.dll
+E:\PBKK\Pertemuan2\HelloDotNet\obj\Debug\net10.0\HelloDotNet.pdb
+E:\PBKK\Pertemuan2\HelloDotNet\obj\Debug\net10.0\HelloDotNet.genruntimeconfig.cache
+E:\PBKK\Pertemuan2\HelloDotNet\obj\Debug\net10.0\ref\HelloDotNet.dll

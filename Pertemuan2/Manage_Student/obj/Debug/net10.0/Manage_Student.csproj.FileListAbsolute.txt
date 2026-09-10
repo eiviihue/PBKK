@@ -1,0 +1,15 @@
+E:\PBKK\Pertemuan2\Manage_Student\bin\Debug\net10.0\Manage_Student.exe
+E:\PBKK\Pertemuan2\Manage_Student\bin\Debug\net10.0\Manage_Student.deps.json
+E:\PBKK\Pertemuan2\Manage_Student\bin\Debug\net10.0\Manage_Student.runtimeconfig.json
+E:\PBKK\Pertemuan2\Manage_Student\bin\Debug\net10.0\Manage_Student.dll
+E:\PBKK\Pertemuan2\Manage_Student\bin\Debug\net10.0\Manage_Student.pdb
+E:\PBKK\Pertemuan2\Manage_Student\obj\Debug\net10.0\Manage_Student.GeneratedMSBuildEditorConfig.editorconfig
+E:\PBKK\Pertemuan2\Manage_Student\obj\Debug\net10.0\Manage_Student.AssemblyInfoInputs.cache
+E:\PBKK\Pertemuan2\Manage_Student\obj\Debug\net10.0\Manage_Student.AssemblyInfo.cs
+E:\PBKK\Pertemuan2\Manage_Student\obj\Debug\net10.0\Manage_Student.csproj.CoreCompileInputs.cache
+E:\PBKK\Pertemuan2\Manage_Student\obj\Debug\net10.0\Manage_Student.sourcelink.json
+E:\PBKK\Pertemuan2\Manage_Student\obj\Debug\net10.0\Manage_Student.dll
+E:\PBKK\Pertemuan2\Manage_Student\obj\Debug\net10.0\refint\Manage_Student.dll
+E:\PBKK\Pertemuan2\Manage_Student\obj\Debug\net10.0\Manage_Student.pdb
+E:\PBKK\Pertemuan2\Manage_Student\obj\Debug\net10.0\Manage_Student.genruntimeconfig.cache
+E:\PBKK\Pertemuan2\Manage_Student\obj\Debug\net10.0\ref\Manage_Student.dll

@@ -15,27 +15,33 @@ Memungkinkan pengguna memasukkan kombinasi angka. Terdapat pula tombol titik des
 
 ### 3. Operasi Penjumlahan (+)
 Melakukan perhitungan penjumlahan antara dua bilangan ketika pengguna menekan tombol operator tambah (+) dan menekan tombol sama dengan (=) untuk menampilkan hasilnya.
-<video controls src="20260923-1623-43.2861931.mp4" title="Operasi Penjumlahan"></video>
+
+https://github.com/user-attachments/assets/c963fdcb-270d-41b2-8105-069730549e83
 
 ### 4. Operasi Pengurangan (−)
 Melakukan operasi pengurangan antara bilangan pertama dan bilangan kedua yang kemudian hasilnya langsung ditampilkan pada layar *display*.
-<video controls src="20260923-1635-51.6664629.mp4" title="Operasi Pengurangan"></video>
+
+https://github.com/user-attachments/assets/f2d3221f-29bf-41c0-a45d-7552cc025f98
 
 ### 5. Operasi Perkalian (×)
 Melakukan perhitungan perkalian antara dua bilangan dan menampilkan hasil kalkulasi secara akurat.
-<video controls src="20260923-1632-04.5255166.mp4" title="Operasi Perkalian"></video>
+
+https://github.com/user-attachments/assets/22c1c958-cf75-4029-b203-30184aef7e10
 
 ### 6. Operasi Pembagian (÷)
 Melakukan pembagian bilangan pertama terhadap bilangan kedua dan menampilkan nilai hasilnya pada layar.
-<video controls src="20260923-1632-57.9511297.mp4" title="Operasi Pembagian"></video>
+
+https://github.com/user-attachments/assets/6f244b87-780e-43bc-92de-5e3cdbf051fd
 
 ### 7. Penanganan Error Pembagian Nol (*Divide by Zero*)
 Sistem dilengkapi dengan penanganan eksepsi (*try-catch*). Jika pengguna mencoba membagi suatu bilangan dengan angka nol (0), aplikasi akan menangkap `DivideByZeroException` dan menampilkan kotak dialog pesan error (*MessageBox*) tanpa membuat aplikasi keluar/crash.
-<video controls src="20260923-1634-07.8705386.mp4" title="Error Pembagian Nol"></video>
+
+https://github.com/user-attachments/assets/ef8838f8-4e5b-435a-8ff1-420defb50621
 
 ### 8. Fitur Reset / Clear (C)
 Mengembalikan kalkulator ke kondisi awal dengan mereset seluruh variabel hitung (*firstNumber*, *secondNumber*, *result*, dan jenis operasi) serta mengembalikan tampilan layar *display* ke nilai "0".
-<video controls src="20260923-1634-57.3000233.mp4" title="Clear"></video>
+
+https://github.com/user-attachments/assets/1ea50b17-9ef2-4c8e-8cda-ff4d24395a12
 
 ### Refleksi Mahasiswa:
 
